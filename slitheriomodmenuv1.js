@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Slither IO Mod Menu
+// @name         Slither IO Mod Menuu
 // @namespace    IO Mods LTD.
 // @version      1.0.0.0
 // @description  Slither.io Mod By IO Mods
